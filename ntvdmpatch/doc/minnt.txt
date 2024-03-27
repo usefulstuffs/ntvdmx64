@@ -21,9 +21,9 @@ Requirements
  * MinNT repository with NTVDM with latest commits as of Apr 16, 2017 
    (q160765803-minint4-85fac4faadc7 or more specifically 
     MinNT-20170416-85fac4faadc77203db8ddc66af280a75c1b717b0.zip)
-   opennt.net site contains some hints on where to find it.
+   https://vichingo455-my.sharepoint.com/:f:/g/personal/admin_vichingo455_onmicrosoft_com/Et6jyl8gLZFAlbASSGp_hvkB3Ouf7m2hU3hlPdTRIRqrvg?e=DFO8oe
  * Windows NT4 repository old-src.trunk.r687.20150728.7z
-   (a.k.a. old-src-sr687.7z)
+   https://vichingo455-my.sharepoint.com/:f:/g/personal/admin_vichingo455_onmicrosoft_com/Et6jyl8gLZFAlbASSGp_hvkB3Ouf7m2hU3hlPdTRIRqrvg?e=DFO8oe
  * Windows Driver Kit Version 7.1.0 
    https://www.microsoft.com/en-us/download/details.aspx?id=11800
  * Microsoft Windows SDK for Windows 7 and .NET Framework 4 (ISO) 
@@ -35,8 +35,8 @@ Requirements
    https://winfuture.de/downloadvorschalt,3291.html
  * An installed version of 7-zip file manager
    https://www.7-zip.de
- * Recommended: Windows Server 2003 Sourcecode
-   nt5src.7z
+ * Recommended: Windows Server 2003 Sourcecode (nt5src.7z)
+   https://vichingo455-my.sharepoint.com/:f:/g/personal/admin_vichingo455_onmicrosoft_com/Et6jyl8gLZFAlbASSGp_hvkB3Ouf7m2hU3hlPdTRIRqrvg?e=DFO8oe
 
 
 Setup MINNT build environment
