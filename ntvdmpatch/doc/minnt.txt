@@ -98,10 +98,10 @@ You now have in ntvdmpatch\minnt\work:
 5) Run ntvdmpatch\minnt\mktools.cmd
    to prepare the build environment tools
 
-6) If you want to have a checked (debug) build:
-       Run NTOSBE-master\sizzle_minnt.cmd
-   OR if you want to have a free (release) build:
+6) If you want to have a free (release) build:
        Run NTOSBE-master\sizzle_minnt_fre.cmd
+   OR if you want to have a checked (debug) build:
+       Run NTOSBE-master\sizzle_minnt.cmd
    to open build shell
 
 7) Run buildrepoidw.cmd -y
