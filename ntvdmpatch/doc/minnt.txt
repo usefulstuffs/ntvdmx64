@@ -25,9 +25,9 @@ Requirements
  * Windows NT4 repository old-src.trunk.r687.20150728.7z
    https://vichingo455-my.sharepoint.com/:f:/g/personal/admin_vichingo455_onmicrosoft_com/Et6jyl8gLZFAlbASSGp_hvkB3Ouf7m2hU3hlPdTRIRqrvg?e=DFO8oe
  * Windows Driver Kit Version 7.1.0 
-   https://www.microsoft.com/en-us/download/details.aspx?id=11800
+   https://vichingo455-my.sharepoint.com/:f:/g/personal/admin_vichingo455_onmicrosoft_com/Et6jyl8gLZFAlbASSGp_hvkB3Ouf7m2hU3hlPdTRIRqrvg?e=DFO8oe
  * Microsoft Windows SDK for Windows 7 and .NET Framework 4 (ISO) 
-   https://www.microsoft.com/en-us/download/details.aspx?id=8442
+   https://vichingo455-my.sharepoint.com/:f:/g/personal/admin_vichingo455_onmicrosoft_com/Et6jyl8gLZFAlbASSGp_hvkB3Ouf7m2hU3hlPdTRIRqrvg?e=DFO8oe
  * NTOSBE-master build environment
    https://github.com/stephanosio/NTOSBE
  * Recommended: Windows 7 x86 ISO named 
